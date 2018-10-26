@@ -1,4 +1,4 @@
-*WARNING*: React plug incoming
+## *WARNING*: React plug incoming
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
