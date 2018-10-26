@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "content": "It's the people who are crazy enough to think that they can change the world who do.",
+        "author": "Steve Jobs"
+    },
+    {
+        "id": 2,
+        "content": "Your time is limited. Don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+    },
+    {
+        "id": 3,
+        "content": "Ars longa, vita brevis.",
+        "author": "Hippocrates"
+    },
+    {
+        "id": 4,
+        "content": "If the world didn't suck, we'd all fall off.",
+        "author": "Darkmane"
+    },
+    {
+        "id": 5,
+        "content": "If not us, who? If not now, when?",
+        "author": "Ronald Reagan"
+    },
+    {
+        "id": 6,
+        "content": "It is not our abilities that show what we truly are.  It is our choices.",
+        "author": "Albus Dumbledore"
+    },
+    {
+        "id": 7,
+        "content": "Wubba lubba dub dub.",
+        "author": "Rick"
+    },
+    {
+        "id": 8,
+        "content": "Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don't know why.",
+        "author": "Paul Graham"
+    },
+    {
+        "id": 9,
+        "content": "What you do for yourself dies with you when you leave this world, what you do for others lives on forever.",
+        "author": "Ken Robinson"
+    }
+]
